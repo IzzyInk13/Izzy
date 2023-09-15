@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Izzy's Personal Page</title>
+    <style>
+        body {
+            background-color: pink;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: white;
+            font-size: 2.5em;
+        }
+        .bio {
+            text-align: center;
+            padding: 20px;
+        }
+        p {
+            color: white;
+            font-size: 1.2em;
+        }
+        .interests {
+            text-align: center;
+            padding: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            color: white;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body  <div class="header">
+        <h1>Welcome to Izzy's Personal Page</h1>
+    </div>
+    <div class="bio">
+        <p>Hello, I'm Izzy! I enjoy crocheting, reading, drawing, and I'm a big fan of Marvel and Harry Potter.</p>
+    </div>
+    <div class="interests">
+        <h2>Interests:</h2>
+        <ul>
+            <li>Crocheting</li>
+            <li>Reading</li>
+            <li>Drawing</li>
+            <li>The color pink</li>
+            <li>Marvel</li>
+            <li>Harry Potter</li>
+        </ul>
+    </div>
+</body>
+</html>
